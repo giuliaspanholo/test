@@ -1,0 +1,129 @@
+body {
+    background-image: url('img/fundo.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+
+#logo{
+  position: absolute;
+  left: 4%;
+  right: 65.03%;
+  top: 4%;
+  bottom: 35.16%;
+}
+
+#logo1 {
+  width: 230px;
+}
+
+#login{
+  position: absolute;
+  left: 26.73%;
+  right: 26.79%;
+  top: 39.16%;
+  bottom: 27.54%;
+
+  background: #0B1826;
+  border-radius: 67px;
+}
+
+#input{
+
+    width: 400px;
+
+    height: 30px;
+
+    border: solid rgb black;
+    border-radius: 20px;
+}
+#senha{
+
+  width: 400px;
+
+  height: 30px;
+
+  border: solid rgb black;
+  border-radius: 20px;
+}
+
+.login2{
+  position: absolute;
+  left: 30.98%;
+  right: 26.79%;
+  top: 47.16%;
+  bottom: 40.54%;
+  color: white;
+  font-size: large;
+}
+
+.login3{
+  position: absolute;
+   left: 30.98%;
+   right: 26.79%;
+   top: 57.16%;
+   bottom: 30.54%;
+   color: white;
+   font-size: large;
+
+
+}
+
+#titulo{
+  position: absolute;
+  left: 30.63%;
+  right: 30.63%;
+  top: 25.94%;
+  bottom: 55.86%;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 80px;
+  /* or 133% */
+
+  text-align: center;
+
+  color: #FFFFFF;
+}
+
+#titulo1{
+  position: absolute;
+  left: 30.63%;
+  right: 30.63%;
+  top: 61%;
+  bottom: 55.86%;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 80px;
+  text-align: center;
+  color: gainsboro;
+}
+
+#botao{
+  position: absolute;
+  width: 12%;
+  height: 6%;
+  margin-left: 85%;
+  top: 4%;
+  background: linear-gradient(180deg, #FE5B00 0%, #FFBD98 97.92%);
+  color: white;
+  border: none;
+}
+
+#botao1{
+  position: absolute;
+  width: 12%;
+  height: 6%;
+  margin-left: 73%;
+  top: 4%;
+  background: none;
+  color: lightgray;
+  border: none;
+}
+
+#botao:active{
+  width: 12.5%;
+  height: 6%;
+  margin-left: 84.75%;
+}
